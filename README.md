@@ -4,7 +4,8 @@
  <div>
   <a href="https://github.com/ImperialCrise">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImperialCrise&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImperialCrise&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImperialCrise&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  </a>
 </div>
  
  ## Skills
@@ -17,11 +18,11 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="ImperialCrise-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="40" align="center" alt="ImperialCrise-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplus-original.svg">
+   <img height="40" align="center" alt="ImperialCrise-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="40" align="center" alt="ImperialCrise-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="40" align="center" alt="ImperialCrise-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+   <img height="40" align="center" alt="ImperialCrise-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="ImperialCrise-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,6 +38,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/ImperialCrise/ImperialCrise/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ImperialCrise/ImperialCrise/blob/emre.ulusoy/github-contribution-grid-snake.svg)
  
 </div>
