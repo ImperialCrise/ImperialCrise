@@ -35,7 +35,7 @@
 
 
 <p align="center">
- <a href="https://www.privilegedlab.com"><img src="https://raw.githubusercontent.com/ImperialCrise/ImperialCrise/emre.ulusoy/images/pixel-empire.png" /> </a>
+ <a href="https://www.privilegedlab.com"><img width="50%" src="https://raw.githubusercontent.com/ImperialCrise/ImperialCrise/emre.ulusoy/images/pixel-empire.png" /> </a>
 </p align="center">
 
 
