@@ -1,14 +1,19 @@
-## Hi, I am ImperialCrise! 
-</br>
 
- <div>
-  <a href="https://github.com/ImperialCrise">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImperialCrise&layout=compact&langs_count=16&count_private=true&theme=dracula"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImperialCrise&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-  </a>
-</div>
+
+<p align="center">
  
- ## Skills
+</p align="center">
+<img src="https://raw.githubusercontent.com/ImperialCrise/ImperialCrise/emre.ulusoy/images/bg.png" />
+
+<p align="center">
+
+ <img src="https://badges.strrl.dev/repos/ImperialCrise"/>
+ <img src="https://badges.strrl.dev/contributions/all/ImperialCrise" />
+ <img src="https://badges.strrl.dev/issues-and-prs/all/ImperialCrise" />
+</p>
+
+<h2 align="center">Technology Stack</h2>
+
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="ImperialCrise-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,17 +32,33 @@
   <img height="40" align="center" alt="ImperialCrise-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="ImperialCrise-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
 </div>
-  
-</br>
 
-## Contact 
-<div> 
-  <a href = "mailto: imperialcrisepro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
-</br>
+<h2 align="center">My Projects</h2>
+
+
+
+
+<h2 align="center">
+  My Contribution Graph 
+</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ImperialCrise/ImperialCrise/emre.ulusoy/images/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<h2 align="center">
+  My Github Stats
+</h2>
  
-  ![Snake animation](https://github.com/ImperialCrise/ImperialCrise/blob/emre.ulusoy/github-contribution-grid-snake.svg)
- 
-</div>
+<br>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ImperialCrise&show_icons=true&theme=radical&line_height=27&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ImperialCrise&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical&count_private=true">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ImperialCrise&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0&count_private=true" />
+</p> 
+
+<hr>
