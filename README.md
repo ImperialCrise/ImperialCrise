@@ -1,9 +1,6 @@
-
-
 <p align="center">
- 
+ <img src="https://raw.githubusercontent.com/ImperialCrise/ImperialCrise/emre.ulusoy/images/bg.png" />
 </p align="center">
-<img src="https://raw.githubusercontent.com/ImperialCrise/ImperialCrise/emre.ulusoy/images/bg.png" />
 
 <p align="center">
 
@@ -14,7 +11,7 @@
 
 <h2 align="center">Technology Stack</h2>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img height="40" align="center" alt="ImperialCrise-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="ImperialCrise-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
@@ -37,6 +34,9 @@
 <h2 align="center">My Projects</h2>
 
 
+<p align="center">
+ <a href="https://www.privilegedlab.com"><img src="https://raw.githubusercontent.com/ImperialCrise/ImperialCrise/emre.ulusoy/images/pixel-empire.png" /> </a>
+</p align="center">
 
 
 <h2 align="center">
