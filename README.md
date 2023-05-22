@@ -38,13 +38,14 @@
  <a href="https://www.privilegedlab.com"><img width="50%" src="https://raw.githubusercontent.com/ImperialCrise/ImperialCrise/emre.ulusoy/images/pixel-empire.png" /> </a>
 </p align="center">
 
-
+<!--
 <h2 align="center">
   My Contribution Graph 
 </h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ImperialCrise/ImperialCrise/emre.ulusoy/images/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+-->
 
 <h2 align="center">
   My Github Stats
