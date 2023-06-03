@@ -53,13 +53,21 @@
  
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ImperialCrise&show_icons=true&theme=radical&line_height=27&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ImperialCrise&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical&count_private=true">
+
+<p align="center">
+  <a href="https://github.com/ImperialCrise">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImperialCrise&theme=transparent" />
+  </a>
+  <a href="https://github.com/ImperialCrise">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImperialCrise&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/ImperialCrise">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImperialCrise&theme=transparent" />
+  </a>
+  <a href="https://github.com/ImperialCrise">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImperialCrise&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ImperialCrise&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0&count_private=true" />
-</p> 
 
 <hr>
